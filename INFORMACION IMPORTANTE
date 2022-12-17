@@ -1,0 +1,9 @@
+Nombre de la BD: productos
+Usuario Admin
+Correo:admin@app.com
+Password: password
+Usuario Cliente/User
+Correo:user_1@app.com
+Password:12345678
+
+Realizar las migraciones y Seeders
